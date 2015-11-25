@@ -1,0 +1,10 @@
+
+{
+	"name": "appearin",
+	"version": "0.0.4",
+	"homepage": "http://www.dropbox.com/developers/dropins",
+	"description": "This repo is a bower wrapper for appear bowser SDK.",
+	"main": "appearin-sdk.js",
+	"keywords": ["dropbox", "dropins"]
+}
+
